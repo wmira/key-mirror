@@ -1,0 +1,18 @@
+{
+  "name": "key-mirror",
+  "version": "1.0.0",
+  "description": "A simple key mirror tool pulled out from react.",
+  "main": "index.js",
+  "author": "Warren Mira <warrenmira@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmira/key-mirror"
+  },
+  "homepage": "https://github.com/wmira/key-mirror",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "devDependencies": {
+
+  }
+}
