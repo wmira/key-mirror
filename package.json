@@ -1,6 +1,6 @@
 {
   "name": "key-mirror",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple key mirror tool pulled out from react.",
   "main": "index.js",
   "author": "Warren Mira <warrenmira@gmail.com>",
